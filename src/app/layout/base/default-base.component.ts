@@ -2,9 +2,8 @@
 import {Component} from '@angular/core';
 
 @Component({
-  selector:'base',
-  templateUrl:'default-base.html'
+  templateUrl: 'default-base.html'
 })
-export class DefaultBaseComponent{
+export class DefaultBaseComponent {
 
 }
